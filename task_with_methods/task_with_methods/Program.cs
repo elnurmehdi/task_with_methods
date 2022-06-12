@@ -15,9 +15,10 @@ namespace task_with_methods
                 Console.WriteLine("/Change to lowercase");
                 Console.WriteLine("/Find the letter from text");
                 Console.WriteLine("Please choose the command : ");
+                Console.WriteLine();
 
                 string requiredCommand = Console.ReadLine();
-                if (requiredCommand == "Change to uppercase")
+                if (requiredCommand == "/Change to uppercase")
                 {
                     Console.WriteLine("Please, enter text : ");
                     string requiredText = Console.ReadLine();
@@ -26,7 +27,7 @@ namespace task_with_methods
                     Console.WriteLine();
 
                 }
-                else if (requiredCommand == "Change to lowercase")
+                else if (requiredCommand == "/Change to lowercase")
                 {
                     Console.WriteLine("Please, enter text : ");
                     string requiredText = Console.ReadLine();
@@ -34,7 +35,8 @@ namespace task_with_methods
                     Console.WriteLine(result);
                     Console.WriteLine();
                 }
-                else if (requiredCommand == "Find the letter from text")
+                else if (requiredCommand == "/" +
+                    "Find the letter from text")
                 {
                     Console.WriteLine("Would you like choose the default mode(yes) or not(no)? : ");
                     string requiredMode = Console.ReadLine();

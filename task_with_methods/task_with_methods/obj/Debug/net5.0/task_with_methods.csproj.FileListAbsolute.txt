@@ -14,3 +14,19 @@ C:\Users\elnurkm\Desktop\Code Academy\Method program\task_with_methods\task_with
 C:\Users\elnurkm\Desktop\Code Academy\Method program\task_with_methods\task_with_methods\obj\Debug\net5.0\ref\task_with_methods.dll
 C:\Users\elnurkm\Desktop\Code Academy\Method program\task_with_methods\task_with_methods\obj\Debug\net5.0\task_with_methods.pdb
 C:\Users\elnurkm\Desktop\Code Academy\Method program\task_with_methods\task_with_methods\obj\Debug\net5.0\task_with_methods.genruntimeconfig.cache
+C:\Users\Arzuman\Desktop\Methods program\task_with_methods\task_with_methods\task_with_methods\bin\Debug\net5.0\task_with_methods.exe
+C:\Users\Arzuman\Desktop\Methods program\task_with_methods\task_with_methods\task_with_methods\bin\Debug\net5.0\task_with_methods.deps.json
+C:\Users\Arzuman\Desktop\Methods program\task_with_methods\task_with_methods\task_with_methods\bin\Debug\net5.0\task_with_methods.runtimeconfig.json
+C:\Users\Arzuman\Desktop\Methods program\task_with_methods\task_with_methods\task_with_methods\bin\Debug\net5.0\task_with_methods.runtimeconfig.dev.json
+C:\Users\Arzuman\Desktop\Methods program\task_with_methods\task_with_methods\task_with_methods\bin\Debug\net5.0\task_with_methods.dll
+C:\Users\Arzuman\Desktop\Methods program\task_with_methods\task_with_methods\task_with_methods\bin\Debug\net5.0\ref\task_with_methods.dll
+C:\Users\Arzuman\Desktop\Methods program\task_with_methods\task_with_methods\task_with_methods\bin\Debug\net5.0\task_with_methods.pdb
+C:\Users\Arzuman\Desktop\Methods program\task_with_methods\task_with_methods\task_with_methods\obj\Debug\net5.0\task_with_methods.csproj.AssemblyReference.cache
+C:\Users\Arzuman\Desktop\Methods program\task_with_methods\task_with_methods\task_with_methods\obj\Debug\net5.0\task_with_methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arzuman\Desktop\Methods program\task_with_methods\task_with_methods\task_with_methods\obj\Debug\net5.0\task_with_methods.AssemblyInfoInputs.cache
+C:\Users\Arzuman\Desktop\Methods program\task_with_methods\task_with_methods\task_with_methods\obj\Debug\net5.0\task_with_methods.AssemblyInfo.cs
+C:\Users\Arzuman\Desktop\Methods program\task_with_methods\task_with_methods\task_with_methods\obj\Debug\net5.0\task_with_methods.csproj.CoreCompileInputs.cache
+C:\Users\Arzuman\Desktop\Methods program\task_with_methods\task_with_methods\task_with_methods\obj\Debug\net5.0\task_with_methods.dll
+C:\Users\Arzuman\Desktop\Methods program\task_with_methods\task_with_methods\task_with_methods\obj\Debug\net5.0\ref\task_with_methods.dll
+C:\Users\Arzuman\Desktop\Methods program\task_with_methods\task_with_methods\task_with_methods\obj\Debug\net5.0\task_with_methods.pdb
+C:\Users\Arzuman\Desktop\Methods program\task_with_methods\task_with_methods\task_with_methods\obj\Debug\net5.0\task_with_methods.genruntimeconfig.cache
