@@ -1,0 +1,16 @@
+C:\Users\elnurkm\Desktop\Code Academy\Method program\task_with_methods\task_with_methods\bin\Debug\net5.0\task_with_methods.exe
+C:\Users\elnurkm\Desktop\Code Academy\Method program\task_with_methods\task_with_methods\bin\Debug\net5.0\task_with_methods.deps.json
+C:\Users\elnurkm\Desktop\Code Academy\Method program\task_with_methods\task_with_methods\bin\Debug\net5.0\task_with_methods.runtimeconfig.json
+C:\Users\elnurkm\Desktop\Code Academy\Method program\task_with_methods\task_with_methods\bin\Debug\net5.0\task_with_methods.runtimeconfig.dev.json
+C:\Users\elnurkm\Desktop\Code Academy\Method program\task_with_methods\task_with_methods\bin\Debug\net5.0\task_with_methods.dll
+C:\Users\elnurkm\Desktop\Code Academy\Method program\task_with_methods\task_with_methods\bin\Debug\net5.0\ref\task_with_methods.dll
+C:\Users\elnurkm\Desktop\Code Academy\Method program\task_with_methods\task_with_methods\bin\Debug\net5.0\task_with_methods.pdb
+C:\Users\elnurkm\Desktop\Code Academy\Method program\task_with_methods\task_with_methods\obj\Debug\net5.0\task_with_methods.csproj.AssemblyReference.cache
+C:\Users\elnurkm\Desktop\Code Academy\Method program\task_with_methods\task_with_methods\obj\Debug\net5.0\task_with_methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elnurkm\Desktop\Code Academy\Method program\task_with_methods\task_with_methods\obj\Debug\net5.0\task_with_methods.AssemblyInfoInputs.cache
+C:\Users\elnurkm\Desktop\Code Academy\Method program\task_with_methods\task_with_methods\obj\Debug\net5.0\task_with_methods.AssemblyInfo.cs
+C:\Users\elnurkm\Desktop\Code Academy\Method program\task_with_methods\task_with_methods\obj\Debug\net5.0\task_with_methods.csproj.CoreCompileInputs.cache
+C:\Users\elnurkm\Desktop\Code Academy\Method program\task_with_methods\task_with_methods\obj\Debug\net5.0\task_with_methods.dll
+C:\Users\elnurkm\Desktop\Code Academy\Method program\task_with_methods\task_with_methods\obj\Debug\net5.0\ref\task_with_methods.dll
+C:\Users\elnurkm\Desktop\Code Academy\Method program\task_with_methods\task_with_methods\obj\Debug\net5.0\task_with_methods.pdb
+C:\Users\elnurkm\Desktop\Code Academy\Method program\task_with_methods\task_with_methods\obj\Debug\net5.0\task_with_methods.genruntimeconfig.cache
